@@ -1,7 +1,5 @@
 @media (max-width: 575.98px) {
-  .top-btn {
-    display: none;
-  }
+  
   .nav-btn a {
     padding: 8px 24px 8px 24px;
     font-size: 14px;
@@ -244,7 +242,7 @@
 	line-height: 30px;
 }
 #section-8 .section-8-box {
-    margin-left: 75px;
+    padding-left: 75px;
     margin-bottom: 60px;
 }
 #section-8 .section-8-box:last-child {

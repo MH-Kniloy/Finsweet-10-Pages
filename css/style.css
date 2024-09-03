@@ -26,6 +26,7 @@ p {
   position: fixed;
   bottom: 40px;
   right: 30px;
+  z-index: 99999;
 }
 .top-btn a i {
   background-color: #5239fa;
